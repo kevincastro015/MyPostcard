@@ -1,0 +1,33 @@
+#background-color {
+	background-color: black;
+	display: inline;
+}
+.background {
+	background-color: white;
+	float: left;
+    margin: auto;
+    position: relative;
+}
+.mypostcard {
+    display: flex;
+}
+img {
+    max-width:100%;
+    height:auto;
+    float: right;
+}
+p {
+    word-break: break-all;
+}
+.address {
+    float: right;
+}
+.button-area {
+	text-align: center;
+	margin: auto;
+	padding: 1em;
+}
+#button {
+	position: relative;
+	margin: auto;
+}
